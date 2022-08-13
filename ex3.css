@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+    background-image: url(/img/cover.jpg);
+    background-repeat: no-repeat;
+    background-size: 1300px 300px;   
+}
+img{
+    border: 10px solid #ddd;
+    padding: 0px;
+    width: 200px;
+    height: 200px;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+.cover{
+    position: absolute;
+    z-index: 1;
+    margin-left: 350px;
+    color: white;
+    margin-top: 200px;
+}

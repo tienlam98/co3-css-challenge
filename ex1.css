@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    font-family: "Open Sans", sans-serif;
+}
+body{
+    background-image: url(/img/logo.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: fixed;
+    margin-right: 60%;
+}
+h1{
+    color: tomato;
+}
+h2{
+    color: dodgerblue;
+}
